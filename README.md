@@ -1,5 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Zakaria Elyahiaoui 👋
 
+## 🎓 About Me
+- 💻 **1st-year Computer Science Student** @ FST
+- 🚀 Currently Learning CS Fundamentals through **Harvard's CS50x**
+- 🎯 Passionate about Software Engineering, AI, and Cybersecurity
+
+## 🛠️ Tools:
+-  Git, GitHub, Scratch
+  
+## 📬 Let's Connect!
+- 📧 Email: elyahiaouizakaria3@gmail.com
 <!--
 **zakaria-elyahiaoui/zakaria-elyahiaoui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
